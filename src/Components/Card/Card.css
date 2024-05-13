@@ -1,0 +1,43 @@
+i{
+    padding: 10px;
+}
+
+.card-header{
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+
+.btn{
+    border-radius: 25px;
+    font-weight: 500;
+    font-size: small;
+    padding: 10px;
+    margin: 2px; 
+}
+
+#FREE:hover,#PLUS:hover,#PRO:hover{
+    zoom: 102%;
+}
+
+.card{
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.row{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+

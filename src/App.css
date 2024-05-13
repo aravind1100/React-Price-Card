@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    margin: 50px 110px 0px 110px;
+    padding: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid rgb(229, 58, 118);
+    border-radius: 10px;
+    background-color: white;
+    font-weight: 600;
+    color: rgb(229, 58, 118);
+}
+
