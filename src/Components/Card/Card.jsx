@@ -5,7 +5,7 @@ const Card = ({ data }) => {
       <div className="row">
         {data.map((ele, ind) => {
           return (
-            <>
+            
               <div key={ind} className="col-12 col-md-6 col-lg-4">
                 <div className="card" id={ele.title}>
                   <div className="card-header">
@@ -83,7 +83,7 @@ const Card = ({ data }) => {
                   </div>
                 </div>
               </div>
-            </>
+            
           );
         })}
       </div>
